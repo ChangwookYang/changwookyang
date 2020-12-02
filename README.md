@@ -1,5 +1,4 @@
-<img width="771" alt="zzz" src="https://user-images.githubusercontent.com/66955409/92328519-5f244b80-f09c-11ea-8139-160c05c81d42.PNG">
-
+🔭 I’m currently working on ... **SK Planet**
 <!--
 **ChangwookYang/changwookyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
