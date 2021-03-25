@@ -1,4 +1,9 @@
 🔭 I’m currently working on ... **SK Planet**
+🌱 I’m currently learning ... **Back-End**, **Algorithm**
+
+**WOOKLOG**
+https://changwookyang.github.io/
+
 <!--
 **ChangwookYang/changwookyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
