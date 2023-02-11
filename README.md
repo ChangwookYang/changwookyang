@@ -1,8 +1,8 @@
 🔭 I’m currently working on ... **SK Planet**  
 🌱 I’m currently learning ... **Back-End**, **Algorithm**
 
-**WOOKLOG**
-https://changwookyang.github.io/
+**VELOG**
+[https://velog.io/@ycw92325](https://velog.io/@ycw92325)
 
 <!--
 **ChangwookYang/changwookyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
