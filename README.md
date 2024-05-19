@@ -1,10 +1,11 @@
 🔭 I’m currently working on ... **SK Planet**  
 🌱 I’m currently learning ... **Back-End**, **Algorithm**
 
+
+<!--
 **VELOG**
 [https://velog.io/@ycw92325](https://velog.io/@ycw92325)
 
-<!--
 **ChangwookYang/changwookyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
